@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+}
+
+.common-greyframe {
+    background: #f0f0f0;
+    padding: 0.5em;
+}
+
+.common-items {
+    border: 0.1em solid #8c8b8a;
+    border-radius: 0.3em;
+    background: #FFFFFF;
+    margin: 0.5em;
+}
+
+.common-usercontent {
+    font: 0.8em sans-serif;
+    color: #000000;
+    padding: 0.5em 0.5em 0 0.5em;
+}
+
+.common-school, .common-previewcontent {
+    font: 0.6em "sans-serif";
+    color: #c4c4c4;
+    padding: 0.2em 0.5em 0.5em 0.5em;
+}
